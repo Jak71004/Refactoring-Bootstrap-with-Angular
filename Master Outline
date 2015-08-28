@@ -8,11 +8,30 @@
 02. Building A Landing Page With Bootstrap
       0201 Section Intro (tutorial of roughly 1 min)
       0202 Elements of good landing page (tutorial of roughly 3 min)
+            What to consider when making a landing page.
+            Element 1 
+            Element 2 
+            Element 3
       0203 Bootstrap intro (tutorial of roughly 3 min)
+            What is Bootstrap
+            Why would I use it
+            How do I use it.
+            How do I get it
+            How do I modify it
       0204 Navigation Lecture (tutorial of roughly 10 min) //Top nav, side nav, sticky nav, nav collapse
+            Go over the different type of navbars
+            Talk about the "*reader only" thing
+            Show how to use the minimize to button
+            Give brief examples of a few main ones
       0205 Navigation Lab (tutorial of roughly 3 min)
+            Create a landing page with navigation
+                  {home, Photo Gallery, contact}
       0206 Jumbotron Lecture (tutorial of roughly 3 min)
+            What is the jumbotron
+            Adding an Image, text, and button
+            Pagination
       0207 Jumbotron Lab (tutorial of roughly 5 min) //add in buttons, text, sliding
+            Add a jumbotron to our landing page.
       0208 Column Intro (tutorial of roughly 5 min)
       0209 Column Lab (tutorial of roughly 3 min)
 
