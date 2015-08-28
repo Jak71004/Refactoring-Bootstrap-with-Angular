@@ -1,1 +1,93 @@
 
+
+01. Introduction
+      0101 Course Intro
+      0102 Course Outline
+      0103 Meet The Instructor
+
+02. Building A Landing Page With Bootstrap
+      0201 Section Intro (tutorial of roughly 1 min)
+      0202 Elements of good landing page (tutorial of roughly 3 min)
+      0203 Bootstrap intro (tutorial of roughly 3 min)
+      0204 Navigation Lecture (tutorial of roughly 10 min) //Top nav, side nav, sticky nav, nav collapse
+      0205 Navigation Lab (tutorial of roughly 3 min)
+      0206 Jumbotron Lecture (tutorial of roughly 3 min)
+      0207 Jumbotron Lab (tutorial of roughly 5 min) //add in buttons, text, sliding
+      0208 Column Intro (tutorial of roughly 5 min)
+      0209 Column Lab (tutorial of roughly 3 min)
+
+03. Creating A "Contact Page" With Bootstrap
+      0301 Section Intro (tutorial of roughly 1 min)
+      0302 Layout the Form (tutorial of roughly 5 min)
+      0303 Build the Form (tutorial of roughly 5 min)
+
+04. Creating A Photo Gallery With Bootstrap
+      0401 Section Intro (tutorial of roughly 1 min)
+      0402 Layout the jumbotron (tutorial of roughly 3 min)
+      0403 Code the Jumbotron (tutorial of roughly 3 min)
+      0404 Media objects Lecture (tutorial of roughly 5 min)
+      0405 Code media objects (tutorial of roughly 5 min)
+
+05. Introduction To Angular
+      0501 Introduction to SPA (tutorial of roughly 5 min)
+      0502 Introduction to Angular (tutorial of roughly 5 min)
+      0503 Key components of angular (tutorial of roughly 5 min)
+      0504 Details about Directives, Expressions, and $scope (tutorial of roughly 10 min)
+      0505 Load Angular into your Home Page (tutorial of roughly 3 min)
+
+06. The Cornerstones Of Angular
+      0601 What is a controller (tutorial of roughly 5 min)
+      0602 Build a controller (tutorial of roughly 3 min)
+      0603 What is a module (tutorial of roughly 5 min)
+      0604 Build a module (tutorial of roughly 3 min)
+      0605 Connecting to your Module (tutorial of roughly 3 min)
+
+07. Adding Angular To Your Landing Page
+      0701 Could you ngRepeat that? (tutorial of roughly 3 min)
+      0702 Building Dynamic Navigation (tutorial of roughly 10 min)
+
+08. Exploring SPAs And Coding A "Shell Page" 
+      0801 Introduction to Views (tutorial of roughly 3 min)
+      0802 Build a Shell Index Page (tutorial of roughly 10 min) //Move navigation etc from original home to shell page, create landing page 
+
+09. Routing: Configuration And Implementation
+      0901 Explain routing (tutorial of roughly 5 min)
+      0902 Get RouteProvider and wire it in (tutorial of roughly 3 min)
+      0903 Walk through the module.config function (tutorial of roughly 7 min)
+      0904 Refactor the site and to convert it into a full SPA (tutorial of roughly 7 min)
+
+10. Creating A "Contact Page"
+      1001 Discuss Data binding, expand on $scope (tutorial of roughly 5 min)
+      1002 Discuss Model (tutorial of roughly 3 min)
+      1003 Describe how validation works (tutorial of roughly 3 min)
+      1004 Bring it all together building an angularize contact page (tutorial of roughly 5 min)
+
+11. Refatoring The "Photo Gallery" With Angular
+      1101 Discuss how angular sorts, formats, and filters (tutorial of roughly 5 min)
+      1102 Explain formatting (tutorial of roughly 5 min)
+
+12. Angular Factories And Services
+      1201 Reducing redunancy with factories (Creating a Factory) (tutorial of roughly 6 min)
+      1202 Refactor XXX (?Navigation) into a factory (tutorial of roughly 4 min)
+      1203 Open the doors and start production (Implement Factory) (tutorial of roughly 5 min)
+      1204 Creating and implementing a Service (tutorial of roughly 7 min)
+      1205 Who you gonna call?  Ajax! (tutorial of roughly 4 min)
+      1206 $http service, promises, and errors (tutorial of roughly 6 min)
+      1207 Use the Service to accept bitcoin payments for our orders through bitpay. (tutorial of roughly 10 min)
+
+
+13. Angular Animation
+      1301 Animation Overview (tutorial of roughly 4 min)
+      1302 Animation Examples (tutorial of roughly 2 min)
+      1303 ngAnimate Module (tutorial of roughly 1 min)
+      1304 Adding ngAnimate Script and Module (tutorial of roughly 2 min)
+      1305 Define animations in CSS (tutorial of roughly 5 min)
+      1306 Creating Sytlesheets with CSS transitions (tutorial of roughly 4 min)
+      1307 Referencing Animation Classes (tutorial of roughly 1 min)
+      1308 Hooking Directives to Animations (tutorial of roughly 2 min)
+      1309 Photo Gallery fade or slide as filtered (tutorial of roughly 4 min)
+      1310 Contact Us input fields shake or bounce when incorrectly entered or missing data (tutorial of roughly 4 min)
+      1311 Animate a "Call to action" on landing page (tutorial of roughly 4 min)
+
+14. Wrap Up
+      1401 Angular Wrap up (tutorial of roughly 2 min)
